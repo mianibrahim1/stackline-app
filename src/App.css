@@ -1,0 +1,105 @@
+
+.App {
+  text-align: center;
+  background-color: #F6F8FA;
+}
+.Header {
+  text-align:left;
+}
+.Detail {
+  padding: 20px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.Navigation {
+  text-align:left;
+  background-color: white;
+  padding-right: 0px; 
+  width: 20%;
+  margin-right: 20px;
+  height: 1000px
+}
+.Card {
+  text-align: center;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color:#F1F3F7;
+}
+.Image {
+  padding-top: 7px;
+  width: 100px;
+  height: 100px;
+}
+.RightView {
+ width:75%;
+ background-color:white;
+}
+.PillView {
+  padding: 20px;
+  justify-content: left;
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color:#F1F3F7;
+
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.Pill {
+  border-style: solid;
+  border-width: 1px;
+  border-color:#ebedf2;
+  border-radius: 4px;
+  width: auto;
+  height: auto;
+  margin: 2px;
+  text-align: center;
+}
+.Pilltext {
+  font-size:10pt;
+  color: #b7b7b7;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin: 0px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+.Title {
+  font-weight: bold;
+  font-size:12pt;
+}
+.Subtitle {
+  font-size:8pt;
+  color: #b7bcc8;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.App-logo {
+  height: 32px;
+}
+
+.App-header {
+  background-color: white;
+  height: 32px;
+  padding: 20px;
+  color: white;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color:#F1F3F7;
+
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
